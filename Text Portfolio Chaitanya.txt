@@ -5,12 +5,17 @@ https://dribbble.com/
 https://github.com/
 
 home__description
-High level experience in web design and development knowledge, producing quality work.
+turning ideas into real life products using HTML, CSS, JavaScript.
+
+-->> i like to craft solid and scalable frontend products with great user experiences.
+-->> turning ideas into real life products using HTML, CSS, JavaScript.
+-->> a responsive website, minimalist interface, emphasis on white space, good user experience
 
 
 * ABOUT
 about__description
-Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.
+(Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.)
+I'm 
 
 about__info-name
 Years <br> experience
@@ -37,8 +42,20 @@ I position your company brand.
 portfolio__description
 Website adaptable to all devices, with ui components and animated interactions.
 1. spotify landing page using HTML, CSS
+	1. cover image - done
+	2. title - spotify landing page
+	3. its description - Made using HTML, CSS 
+	4. github link - 
 2. TinDog using Bootstrap
+	1. cover image - 
+	2. title - Tinder for dogs
+	3. its description - Made using Bootstrap.
+	4. github link - 
 3. Counter app using HTML, CSS, JS.
+	1. cover image - 
+	2. title - Counter App
+	3. its description - Made using HTML, CSS, JS. 
+	4. github link - 
 
 
 * PROJECT
