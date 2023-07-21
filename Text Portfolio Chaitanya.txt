@@ -14,8 +14,11 @@ turning ideas into real life products using HTML, CSS, JavaScript.
 
 * ABOUT
 about__description
-(Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.)
-I'm 
+
+I'm a dedicated and an aspiring Web Developer ready to embark on an exciting journey in the digital realm. With a strong foundation in HTML, CSS, and JavaScript, I'm eager to take on new challenges and contribute my skills to create engaging and user-friendly web experiences.
+//================================//
+I'm Chaitanya, a dedicated and creative Web Developer with a passion for crafting seamless and captivating online experiences. With a strong foundation in HTML, CSS, and JavaScript, I possess a keen eye for detail and a genuine enthusiasm for staying at the forefront of web technologies.
+I'm Chaitanya, an enthusiastic and aspiring Web Developer ready to embark on an exciting journey in the digital realm. With a strong foundation in HTML, CSS, and JavaScript, I'm eager to take on new challenges and contribute my skills to create engaging and user-friendly web experiences.
 
 about__info-name
 Years <br> experience
@@ -44,18 +47,20 @@ Website adaptable to all devices, with ui components and animated interactions.
 1. spotify landing page using HTML, CSS
 	1. cover image - done
 	2. title - spotify landing page
-	3. its description - Made using HTML, CSS 
-	4. github link - 
+	3. its description - Responsive Mobile-first Webpage made using HTML, CSS using core concepts 
+                                such as Semantic HTML, CSS-flexBox, CSS-grid, element/pseudo selectors,etc.
+	4. github link - https://chaitanya-ranjan29.github.io/Spotify-Landing-Page/
 2. TinDog using Bootstrap
-	1. cover image - 
+	1. cover image - done
 	2. title - Tinder for dogs
-	3. its description - Made using Bootstrap.
-	4. github link - 
-3. Counter app using HTML, CSS, JS.
-	1. cover image - 
-	2. title - Counter App
-	3. its description - Made using HTML, CSS, JS. 
-	4. github link - 
+	3. its description - Responsive Mobile-first Webpage made using Bootstrap Framework.
+	4. github link - https://chaitanya-ranjan29.github.io/TinDog/
+3. Shopping cart using HTML, CSS, JS.
+	1. cover image - done
+	2. title - Shopping cart
+	3. its description - Responsive Shopping cart Webpage made using Advanced JavaScript concepts of 
+				Local storage, JSON, Classes, etc.
+	4. github link - https://chaitanya-ranjan29.github.io/Shopping-cart/
 
 
 * PROJECT
